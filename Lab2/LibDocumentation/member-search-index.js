@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"MyPackage","c":"MyClass","l":"acrostic(String[])","u":"acrostic(java.lang.String[])"},{"p":"MyPackage","c":"MyClass","l":"MyClass()","u":"%3Cinit%3E()"}];updateSearchResults();
